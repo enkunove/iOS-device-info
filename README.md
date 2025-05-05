@@ -1,16 +1,14 @@
-# ios_integration_demo
+# 📱 iOS Device Info Demo
 
-A new Flutter project.
+A Flutter demo app that retrieves and displays detailed hardware, system, and network information from an iOS device using a custom Swift `MethodChannel`.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 📲 Device name, model, system version, and unique identifier
+- 🔋 Battery level and state
+- 📏 Screen size, scale, and brightness
+- 🌐 IP address and carrier information
+- 🧠 CPU, RAM, and storage stats
+- 📸 Camera and biometric availability
+- 🎯 Motion sensor availability (gyroscope, accelerometer, magnetometer)
+- 🗺 Locale and region settings
